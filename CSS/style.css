@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(90deg, rgba(140, 148, 118, 0.3841911764705882) 15%, rgba(47, 139, 71, 0.14049369747899154) 50%, rgba(140, 148, 118, 0.3841911764705882) 85%);
+}
+
+hr {
+    background-color: #EAEAEA;
+    border-style: none;
+    border-top-style: dotted;
+    width: 2%;
+    height: 0px;
+    border-width: 5px;
+}
+
+h1 {
+    color: #889E81;
+    text-align: center;
+}
+
+h3 {
+    color: #889E81;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ul {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a {
+    align-content: center;
+}
